@@ -42,7 +42,12 @@ This project investigates the potential of selected phytochemicals from *Moringa
 
 ## 📈 Results
 
-Results and visualizations will be uploaded soon.
+The molecular docking, ADMET prediction, and molecular dynamics simulation results are documented in the project report and presentation.
+
+Please refer to the following files for detailed results, analysis, and visualizations:
+
+- [CADD Mini Project Report](AditiGupta_CADD_MiniProject.pdf)
+- [CADD Project Presentation](AditiGupta_CADD_Presentation.pdf)
 
 ---
 
