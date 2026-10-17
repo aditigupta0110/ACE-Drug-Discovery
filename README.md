@@ -62,3 +62,8 @@ Results and visualizations will be uploaded soon.
 
 Integrated B.Tech Biotechnology Student
 
+## 📂 Project Resources
+
+- 📄 [CADD Mini Project Report](AditiGupta_CADD_MiniProject.pdf)
+- 📊 [CADD Project Presentation](AditiGupta_CADD_Presentation.pdf)
+
